@@ -1,0 +1,6 @@
+C:\Users\unkno\source\repos\pppzZadatakDva\pppzZadatakDva\bin\Debug\pppzZadatakDva.exe.config
+C:\Users\unkno\source\repos\pppzZadatakDva\pppzZadatakDva\bin\Debug\pppzZadatakDva.exe
+C:\Users\unkno\source\repos\pppzZadatakDva\pppzZadatakDva\bin\Debug\pppzZadatakDva.pdb
+C:\Users\unkno\source\repos\pppzZadatakDva\pppzZadatakDva\obj\Debug\pppzZadatakDva.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\pppzZadatakDva\pppzZadatakDva\obj\Debug\pppzZadatakDva.exe
+C:\Users\unkno\source\repos\pppzZadatakDva\pppzZadatakDva\obj\Debug\pppzZadatakDva.pdb
